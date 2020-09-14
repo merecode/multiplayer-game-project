@@ -1,0 +1,7 @@
+node_modules/
+*.txt
+note.txt
+/note.txt
+/*.txt
+step-by-step.txt
+/step-by-step.txt
